@@ -1,0 +1,16 @@
+{
+  "name": "simple-app-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CORE Code School",
+  "license": "MIT",
+  "description": "Super simple express app",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {}
+}
