@@ -42,6 +42,7 @@ Flags para `docker run` que configuran el maximo de memoria RAM usada por el con
 
 ## Referencias
 
+- https://docs.docker.com/desktop/
 - https://docs.docker.com/engine/reference/builder/
 - https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md
 - https://devcenter.heroku.com/articles/container-registry-and-runtime
